@@ -17,3 +17,5 @@ This is a simple project demonstrating a responsive dropdown menu using HTML and
 
 - **HTML (`index.html`)**: Defines the structure of the dropdown menu.
 - **CSS (`style.css`)**: Provides the styling for the menu and dropdown.
+- 
+# Feel free to fork and contribute to improve this project! 😊
